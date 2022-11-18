@@ -19,14 +19,20 @@ in search of correlations between users' geographical - possibly emotional - pro
 
 
 ## Proposed Additional Datasets :books:
-**1. Craft breweries per capita in 2021  in the US** <br>
+**1. beer - worldwide **
+
+[beer - worldwide]([https://link-url-here.org](https://www.statista.com/outlook/cmo/alcoholic-drinks/beer/worldwide))
+
+
+**2. Craft breweries per capita in 2021  in the US** <br>
 The number of craft breweries per capita illustrates the involvement of the users in the beer market and reflects the potential bias for their hometown beers. <br>
 https://datasetsearch.research.google.com/search?src=2&query=U.S.%20craft%20beer%20breweries%20per%20capita%202021%2C%20by%20state&docid=L2cvMTFwd2Y1NzR5NA%3D%3D
 
 
 
 
-**2. Major beer vendor market share in the United States from 2014 to 2021** <br>
+**3. Major beer vendor market share in the United States from 2014 to 2021** <br>
+This is to have an idea on the leading beer suppliers in the US overtime
 https://datasetsearch.research.google.com/search?src=2&query=Major%20beer%20vendor%20market%20share%20in%20the%20United%20States%20from%202014%20to%202021&docid=L2cvMTFyOW1iYm5jdw%3D%3D
 
 
