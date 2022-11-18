@@ -55,3 +55,5 @@ In order to analyze the validity of the reviews present in the datasets, use a s
 ## Team Organization :snake:
 * Ilker, Mark: Machine Learning (sentiment analysis).
 * Ralph, Emna: Data Exploration, Hypothesis testing and Visualizations.
+
+![logo](https://user-images.githubusercontent.com/62402657/202795763-95431dd6-fc03-437c-bd44-f4c11cdb8bd1.jpg)
