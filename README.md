@@ -19,6 +19,14 @@ in search of correlations between users' geographical - possibly emotional - pro
 
 
 ## Proposed Additional Datasets :books:
+craft breweries per capita in 2021
+https://datasetsearch.research.google.com/search?src=2&query=U.S.%20craft%20beer%20breweries%20per%20capita%202021%2C%20by%20state&docid=L2cvMTFwd2Y1NzR5NA%3D%3D
+
+
+Major beer vendor market share in the United States from 2014 to 2021
+https://datasetsearch.research.google.com/search?src=2&query=Major%20beer%20vendor%20market%20share%20in%20the%20United%20States%20from%202014%20to%202021&docid=L2cvMTFyOW1iYm5jdw%3D%3D
+
+
 
 ## Methods :wrench: :hammer:
 
