@@ -20,19 +20,19 @@ Beers are the most social alcoholic drinks out there: whether it’s with friend
 
 
 * **[beer - worldwide](https://www.statista.com/outlook/cmo/alcoholic-drinks/beer/worldwide)** <br>
-This will help us analyse ranking and word beer consumptions and have an idea on the market shares over time.
+Dataset containing world ranking in beer consumption and global beer market shares between 2012 and 2022.
 
 * **[Craft breweries per capita in 2021  in the US](https://datasetsearch.research.google.com/search?src=2&query=U.S.%20craft%20beer%20breweries%20per%20capita%202021%2C%20by%20state&docid=L2cvMTFwd2Y1NzR5NA%3D%3D)** <br>
-The number of craft breweries per capita illustrates the involvement of the users in the beer market and reflects the potential bias for their hometown beers.
+Dataset containing craft breweries per capita data in the UD in year 2021, could illustrate the involvement of the users in the beer market and reflect potential bias towards their hometown beers.
 * **[ Major beer vendor market share in the United States from 2014 to 2021](https://datasetsearch.research.google.com/search?src=2&query=Major%20beer%20vendor%20market%20share%20in%20the%20United%20States%20from%202014%20to%202021&docid=L2cvMTFyOW1iYm5jdw%3D%3D)** <br>
-This is to have an idea on the leading beer suppliers in the US overtime.
+Dataset containing local US beer vendor market shares from 2014 to 2021, could show correlation between local and nation-wide brewery success.
 
 
 
 
 ## Methods :wrench: :hammer:
 ### Data Handling:
-Using pandas to extract the files content and recombine data to obtain matched location dataset.
+Extract the files content using pandas to recombine data and obtain matched location dataset.
 ### Exploratory Data Analysis:
 * **Histogram plots** to visualise and explore the distributions of the number of ratings and number of reviews. We have also plotted the histograms of beer type to evaluate the distributions of beers by style. We noticed that most of the beer brands have 1-2 ratings. As for the beer style, we have noticed that most beers fall into 3-4 most popular categories (e.g. American IPA, American Pale Ale, Farmhouse Ale ...).
 * **Statistical moments** : means and medians to study the shape of the distributions. We discovered that the distributions of both the number of reviews and number of ratings with respect to the beer type are long tailed.
