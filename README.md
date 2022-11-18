@@ -1,3 +1,5 @@
+
+The Cobras: Ilker Gul, Mark Tropin, Emna Fendri, Ralph El Haddad.
 # Beers :beer:
 Or America's latest obsession 
 
@@ -40,6 +42,15 @@ bias analysis using transformer  to test our hypothesis
 
 
 ## Proposed Timeline :hourglass_flowing_sand:
+* Week 10: Sentiment Analysis.
+* Week 11: Hypothesis testing.
+* Week 12: Debugging + Optimizing implementation.
+* Week 13: Visualizations for datastory.
+* Week 14: Wrapping up for final submission.
 
 ## Team Organization :snake:
+* Ilker, Mark: Machine Learning (sentiment analysis).
+* Ralph, Emna: Data Exploration, Hypothesis testing and Visualizations.
+
+
 
