@@ -2,4 +2,4 @@
 
 ## Abstract :memo:
 
-## Research Questions :grey_question:
+## Research Questions :red_question:
