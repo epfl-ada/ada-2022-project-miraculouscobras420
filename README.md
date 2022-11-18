@@ -32,12 +32,13 @@ Dataset containing local US beer vendor market shares from 2014 to 2021, could s
 
 ## Methods :wrench: :hammer:
 ### Data Handling:
-Extract the files content using pandas to recombine data and obtain matched location dataset.
+Extract the files content using pandas to recombine data and obtain matched location dataset. The files contain user, brewery, and beer data, as well as .txt files containing user reviews and ratings. We extract the reviews and ratings from txt files and join them to the user and brewery data to obtain a dataframe containing every review's user and brewery location among others. We then split the data in two: one dataframe containing local reviews, another containing outsider reviews.
+
 ### Exploratory Data Analysis:
-* **Histogram plots** to visualise and explore the distributions of the number of ratings and number of reviews. We have also plotted the histograms of beer type to evaluate the distributions of beers by style. We noticed that most of the beer brands have 1-2 ratings. As for the beer style, we have noticed that most beers fall into 3-4 most popular categories (e.g. American IPA, American Pale Ale, Farmhouse Ale ...).
-* **Statistical moments** : means and medians to study the shape of the distributions. We discovered that the distributions of both the number of reviews and number of ratings with respect to the beer type are long tailed.
-bias analysis using transformer  to test our hypothesis 
-* **Sentiment Analysis** : In order to analyze the validity of the reviews present in the datasets, we decided to use a sentiment analysis model. We have picked a Transformer model and then evaluated it on random subsets of the beer reviews. As expected, negative reviews (i.e. Bad Overall Score) contained mostly negative words (vice versa for positive reviews (Overall Score = 5)). For the next milestone, we anticipate using this model to confirm whether a given review is legitimate or not.
+* **Visualise and explore the distribution of the datasets' different attributes using histograms and map visualizations. Get familiar with the data and ensure feasibility of the project. One notable visualization is the local reviews map shown below:
+
+
+* **Sentiment Analysis** : In order to analyze the validity of the reviews present in the datasets, use a sentiment analysis model. We have picked a Transformer model and then evaluated it on random subsets of the beer reviews. As expected, negative reviews (i.e. Bad Overall Score) contained mostly negative words (vice versa for positive reviews (Overall Score = 5)). For the next milestone, we anticipate using this model to confirm whether a given review is legitimate or not.
 
 
 
