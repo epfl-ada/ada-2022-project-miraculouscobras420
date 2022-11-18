@@ -1,7 +1,7 @@
 
 The Cobras: Ilker Gul, Mark Tropin, Emna Fendri, Ralph El Haddad.
-# Beers :beer:
-Or America's latest obsession 
+# Beer :beer:
+Or America's latest obsession...
 
 ## Abstract :page_facing_up:
 The sense of belonging has always been an important human factor, whether it’s in opinion formation, judgment, or decision making. Cleveland people, for example, will usually root for their local NFL team, the Browns, even though that same team ends up last pretty much every season! The sense of belonging does not exclusively mean an emotional connection though, it might also express a sort of camaraderie, a sense of mutual support in financial matters. But how does this apply to beers? <br>
