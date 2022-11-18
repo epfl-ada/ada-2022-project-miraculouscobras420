@@ -1,5 +1,13 @@
-# Beer Review
+# :beer: :beer: :beer: Beer Review :beer: :beer: :beer:
 
-## Abstract :memo:
+## Abstract :page_facing_up:
 
-## Research Questions :red_question:
+## Research Questions :question:
+
+## Additional Datasets :books:
+
+## Methods :wrench: :hammer:
+
+## Proposed Timeline :hourglass_flowing_sand:
+
+## Team Organization :snake:
