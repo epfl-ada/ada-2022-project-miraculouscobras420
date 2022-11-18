@@ -52,5 +52,7 @@ bias analysis using transformer  to test our hypothesis
 * Ilker, Mark: Machine Learning (sentiment analysis).
 * Ralph, Emna: Data Exploration, Hypothesis testing and Visualizations.
 
+![MiraculousCobras](https://user-images.githubusercontent.com/62402657/198683513-39b80ccc-5035-4e12-b59b-20b385a49ff8.jpeg)
+
 
 
