@@ -29,13 +29,14 @@ This is to have an idea on the leading beer suppliers in the US overtime.
 
 
 ## Methods :wrench: :hammer:
-### Statistical Tools:
-* **Histogram plots** to visualise and explore the distributions of the number of ratings and number of reviews. We have also plotted the histograms of beer type to evaluate the distributions of beers by style. We noticed that most of the beer brands have 1-2 ratings. As for the beer style, we have noticed that most beers fall into 3-4 most popular categories (e.g. American IPA, American Pale Ale, Farmhouse Ale ...).<br>
-* **Statistical moments** : means and medians to study the shape of the distributions. We discovered that the distributions of both the number of reviews and number of ratings with respect to the beer type are long tailed.<br>
-
-### Machine learning Models:
+### Data Handling:
+Using pandas to extract the files content and recombine data to obtain matched location dataset.
+### EDA:
+* **Histogram plots** to visualise and explore the distributions of the number of ratings and number of reviews. We have also plotted the histograms of beer type to evaluate the distributions of beers by style. We noticed that most of the beer brands have 1-2 ratings. As for the beer style, we have noticed that most beers fall into 3-4 most popular categories (e.g. American IPA, American Pale Ale, Farmhouse Ale ...).
+* **Statistical moments** : means and medians to study the shape of the distributions. We discovered that the distributions of both the number of reviews and number of ratings with respect to the beer type are long tailed.
+bias analysis using transformer  to test our hypothesis 
 * **Sentiment Analysis** : In order to analyze the validity of the reviews present in the datasets, we decided to use a sentiment analysis model. We have picked a Transformer model and then evaluated it on random subsets of the beer reviews. As expected, negative reviews (i.e. Bad Overall Score) contained mostly negative words (vice versa for positive reviews (Overall Score = 5)). For the next milestone, we anticipate using this model to confirm whether a given review is legitimate or not.
-### Visualisations:
+
 
 
 ## Proposed Timeline :hourglass_flowing_sand:
