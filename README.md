@@ -19,9 +19,9 @@ in search of correlations between users' geographical - possibly emotional - pro
 
 
 ## Proposed Additional Datasets :books:
-**1. beer - worldwide **
 
-[beer - worldwide]([https://link-url-here.org](https://www.statista.com/outlook/cmo/alcoholic-drinks/beer/worldwide))
+
+**[beer - worldwide](https://www.statista.com/outlook/cmo/alcoholic-drinks/beer/worldwide)**
 
 
 **2. Craft breweries per capita in 2021  in the US** <br>
