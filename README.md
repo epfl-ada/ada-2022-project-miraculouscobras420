@@ -37,7 +37,7 @@ Extract the files content using pandas to recombine data and obtain matched loca
 ### Exploratory Data Analysis:
 Visualise and explore the distribution of the datasets' different attributes using histograms and map visualizations. Get familiar with the data and ensure feasibility of the project. One notable visualization is the local reviews map shown below:
 
-![RateBeer local reviews map](https://github.com/[ralph-elhaddad]/[ada-2022-project-miraculouscobras420]/blob/main/logo.jpg?raw=true)
+![map RB](https://user-images.githubusercontent.com/62402657/202795637-a3214126-d35d-46db-bc85-ad5128718104.png)
 
 
 ### Sentiment Analysis : 
