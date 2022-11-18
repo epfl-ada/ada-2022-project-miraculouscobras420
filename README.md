@@ -42,8 +42,8 @@ bias analysis using transformer  to test our hypothesis
 
 
 ## Proposed Timeline :hourglass_flowing_sand:
-* Week 10: Sentiment Analysis.
-* Week 11: Hypothesis testing.
+* Week 10: Sentiment Analysis : Check if users are prone to give positive ratings to their homestate beers.
+* Week 11: Hypothesis testing : Check whether a review sentiment correlates with proposed user's score.
 * Week 12: Debugging + Optimizing implementation.
 * Week 13: Visualizations for datastory.
 * Week 14: Wrapping up for final submission.
