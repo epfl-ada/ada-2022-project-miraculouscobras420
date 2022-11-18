@@ -18,6 +18,7 @@ Beers are the most social alcoholic drinks out there: whether it’s with friend
 
 
 * **[beer - worldwide](https://www.statista.com/outlook/cmo/alcoholic-drinks/beer/worldwide)** <br>
+This will help us analyse ranking and word beer consumptions and have an idea on the market shares over time.
 
 * **[Craft breweries per capita in 2021  in the US](https://datasetsearch.research.google.com/search?src=2&query=U.S.%20craft%20beer%20breweries%20per%20capita%202021%2C%20by%20state&docid=L2cvMTFwd2Y1NzR5NA%3D%3D)** <br>
 The number of craft breweries per capita illustrates the involvement of the users in the beer market and reflects the potential bias for their hometown beers.
