@@ -19,8 +19,7 @@ in search of correlations between users' geographical - possibly emotional - pro
 
 
 ## Proposed Additional Datasets :books:
-Markup : * 
-craft breweries per capita in 2021
+* craft breweries per capita in 2021
 https://datasetsearch.research.google.com/search?src=2&query=U.S.%20craft%20beer%20breweries%20per%20capita%202021%2C%20by%20state&docid=L2cvMTFwd2Y1NzR5NA%3D%3D
 
 
