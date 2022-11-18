@@ -31,7 +31,7 @@ This is to have an idea on the leading beer suppliers in the US overtime.
 ## Methods :wrench: :hammer:
 ### Data Handling:
 Using pandas to extract the files content and recombine data to obtain matched location dataset.
-### EDA:
+### Exploratory Data Analysis:
 * **Histogram plots** to visualise and explore the distributions of the number of ratings and number of reviews. We have also plotted the histograms of beer type to evaluate the distributions of beers by style. We noticed that most of the beer brands have 1-2 ratings. As for the beer style, we have noticed that most beers fall into 3-4 most popular categories (e.g. American IPA, American Pale Ale, Farmhouse Ale ...).
 * **Statistical moments** : means and medians to study the shape of the distributions. We discovered that the distributions of both the number of reviews and number of ratings with respect to the beer type are long tailed.
 bias analysis using transformer  to test our hypothesis 
