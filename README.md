@@ -6,11 +6,6 @@ The sense of belonging has always been an important human factor, whether it’s
 Beers are the most social alcoholic drinks out there: whether it’s with friends or coworkers, beers are the usual go-to in outdoor social gatherings. But how easy is it to dissociate one’s opinion about the beer from the memories that come with it? Does the sense of belonging to a group influence our supposedly impartial judgment of the product? In this project, we turn to the datasets provided by 2 major beer rating websites, BeerAdvocate and RateBeer, in search of user bias towards “local” breweries. A brewery is labeled “local” if it is located in the same state as the user, and “outsider” otherwise.
 
 
-a brewery located in the same state as the user is referred to as a "local" brewery, while others are "outsiders". 
-
-in search of correlations between users' geographical - possibly emotional - proximity to the brewery and an eventual bias towards or against the provided product. The study is limited to the Unites States and is made at the States scale.
-
-
 
 ## Research Questions :thinking:
 * Does the brewery's location influence users' reviews? <br>
