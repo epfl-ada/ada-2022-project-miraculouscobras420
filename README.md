@@ -40,9 +40,23 @@ Visualise and explore the distribution of the datasets' different attributes usi
 ![map RB](https://user-images.githubusercontent.com/62402657/202795637-a3214126-d35d-46db-bc85-ad5128718104.png)
 
 
-### Sentiment Analysis : 
+### Ale vs. Lager:
+
+Ale and Lager are the two main categories of beer that are consumed in the US. Ale was originally brought to the US by the British and the Dutch, while Lager was brought 200 years later by the German immigrants. We decided to analyze whether this historical detail has an effect on beer consumption in the "German belt" today.
+
+To answer this question, we visualize the US map where each state is mapped to a ratio. The ratio is the number of local reviews within a particular state divided by the corresponding state population multiplied by a 1000. Note that we define a "local review" as a review of a beer that was produced in the user's state.
+
+$\frac{\text{No. of local reviews in state A}}{\text{population of state A}} \cdot 1000$
+
+This ratio results in the number of local reviews per 1000 citizens.  
+
+### Sentiment Analysis: 
 In order to analyze the validity of the reviews present in the datasets, use a sentiment analysis model. We have picked a Transformer model and then evaluated it on random subsets of the beer reviews. As expected, negative reviews (i.e. Bad Overall Score) contained mostly negative words (vice versa for positive reviews (Overall Score = 5)). For the next milestone, we anticipate using this model to confirm whether a given review is legitimate or not.
 
+**ILKER ILKER ILKER**
+
+### Hypothesis testing:
+To study the effect of the users location relative to the brewery location, we conduct two types of statistical tests. First, we fit linear models linking these categorical attributes to the beer rating to see if there is any correlation between the two. Second, we generated independent t-tests to check whether the difference between the two datasets is statistically significant.
 
 
 ## Proposed Timeline :hourglass_flowing_sand:
@@ -53,7 +67,10 @@ In order to analyze the validity of the reviews present in the datasets, use a s
 * Week 14: Wrapping up for final submission.
 
 ## Team Organization :snake:
-* Ilker, Mark: Machine Learning (sentiment analysis).
-* Ralph, Emna: Data Exploration, Hypothesis testing and Visualizations.
+
+* Ralph: Data story, web development, Project Manager
+* Emna: Hypothesis testing, data story
+* Ilker: Sentiment analysis, data story
+* Mark: Hypothesis testing, data story
 
 ![logo](https://user-images.githubusercontent.com/62402657/202795763-95431dd6-fc03-437c-bd44-f4c11cdb8bd1.jpg)
