@@ -12,8 +12,6 @@ Here you can access to our **datastory**:<br>
 The sense of belonging has always been an important human factor, whether it’s in opinion formation, judgment, or decision making. Cleveland people, for example, will usually root for their local NFL team, the Browns, even though that same team ends up last pretty much every season! The sense of belonging does not exclusively mean an emotional connection though, it might also express a sort of camaraderie, a sense of mutual support in financial matters. But how does this apply to beers? <br>
 Beers are the most social alcoholic drinks out there: whether it’s with friends or coworkers, beers are the usual go-to in outdoor social gatherings. But how easy is it to dissociate one’s opinion about the beer from the memories that come with it? Does the sense of belonging to a group influence our supposedly impartial judgment of the product? In this project, we turn to the datasets provided by 2 major beer rating websites, BeerAdvocate and RateBeer, in search of user bias towards “local” breweries. A brewery is labeled “local” if it is located in the same state as the user, and “outsider” otherwise.
 
-
-
 ## Research Questions :thinking:
 * Does the brewery's location influence users' reviews? <br>
 * Do consumers prefer local or foreign beers? <br>
@@ -92,6 +90,13 @@ To study the effect of the users location relative to the brewery location, we c
 * Week 12: Debugging + Optimizing implementation.
 * Week 13: Visualizations for datastory.
 * Week 14: Wrapping up for final submission.
+
+## Folder Structure
+**project_milestone3.ipynb**: EDA, Ale vs. Lager and Sentiment Analysis parts can be found in this document
+**linear_regression.ipynb**: Linear Regression results, hypothesis testing results included in the data story can be found here
+**LDA_vis.ipynb**: Latent Dirichlet Allocation(LDA), lemmatization and word cloud generation codes can be found here.
+
+**Note**: While writing our data story, we realized that adding the visualizations regarding LDA might cause distraction for the reader to grasp the story we wanted to tell in our data story. Therefore, we decided not to include in the data story but to share the codes with you in which wordcloud generation functions are also included
 
 ## Team Organization :snake:
 
