@@ -59,6 +59,13 @@ $\frac{\text{No. of local reviews in state A}}{\text{population of state A}} \cd
 
 This ratio results in the number of local reviews per 1000 citizens.  
 
+### Traces of Prohibition:
+
+On to a more recent topic. We know the influence of the Prohibition era, which happened 100 years ago, is still prevalent in the way Americans consume beer today, since some states still have dry counties where alcohol is prohibited. 
+
+We believe that ratings of beer in dry states are generally less favorable and are especially unfavorable for beer from wet states. 
+Two statistical tests are performed to either support or contradict this claim: a linear regression that forecasts the beer rating given a categorical attribute as input and a separate t-test on the sample means.
+
 ### Sentiment Analysis: 
 In order to analyze the validity of the reviews present in the datasets, use a sentiment analysis model. We have picked a Transformer model and then evaluated it on random subsets of the beer reviews. As expected, negative reviews (i.e. Bad Overall Score) contained mostly negative words (vice versa for positive reviews (Overall Score = 5)). For the next milestone, we anticipate using this model to confirm whether a given review is legitimate or not.
 
