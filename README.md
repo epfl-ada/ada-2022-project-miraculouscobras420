@@ -16,7 +16,7 @@ Beers are the most social alcoholic drinks out there: whether it’s with friend
 * How does the burgeoning of craft beer breweries reflect users' bias for their hometown beers? 
 
 
-## Proposed Additional Datasets :books:
+## Additional Datasets :books:
 
 
 * **[beer - worldwide](https://www.statista.com/outlook/cmo/alcoholic-drinks/beer/worldwide)** <br>
