@@ -67,9 +67,14 @@ We believe that ratings of beer in dry states are generally less favorable and a
 Two statistical tests are performed to either support or contradict this claim: a linear regression that forecasts the beer rating given a categorical attribute as input and a separate t-test on the sample means.
 
 ### Sentiment Analysis: 
-In order to analyze the validity of the reviews present in the datasets, use a sentiment analysis model. We have picked a Transformer model and then evaluated it on random subsets of the beer reviews. As expected, negative reviews (i.e. Bad Overall Score) contained mostly negative words (vice versa for positive reviews (Overall Score = 5)). For the next milestone, we anticipate using this model to confirm whether a given review is legitimate or not.
+The first thing we need to do is pose this question. Why is sentiment analysis important for discovering people' opinions about beers? Because the only reminders we have of the former beer market are vintage maps and amusing beer advertisements! 
 
-**ILKER ILKER ILKER**
+People's prior beer experiences have been tremendously facilitated by technological improvements and the frequent usage of websites like Beer Advocate and Rate Beer.
+
+People's prior beer experiences have been tremendously facilitated by technological improvements and the frequent usage of websites like Beer Advocate and Rate Beer. Therefore, when examining the positive or negative feelings of people's remarks regarding any beer, can we observe how negative the review content is if a beer has a low rating or how positive the review content is if a beer has a high rating? 
+The twitter-XLM-roBERTa-base for Sentiment Analysis model created by Cardiff NLP was used in the sentiment analysis that followed. Using training data from 198M tweets, this multilingual NLP model has been optimized for sentiment analysis.
+
+
 
 ### Hypothesis testing:
 To study the effect of the users location relative to the brewery location, we conduct two types of statistical tests. First, we fit linear models linking these categorical attributes to the beer rating to see if there is any correlation between the two. Second, we generated independent t-tests to check whether the difference between the two datasets is statistically significant.
