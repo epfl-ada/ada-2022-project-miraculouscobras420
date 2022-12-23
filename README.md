@@ -4,7 +4,7 @@ The Cobras: Ilker Gul, Mark Tropin, Emna Fendri, Ralph El Haddad.
 Or America's latest obsession...
 
 ## Data Story Link
-Here you can access to our datastory;
+Here you can access to our **datastory**:<br>
 **[Miraculous Cobras 420 ADA Datastory](https://ralph-elhaddad.github.io/miraculouscobras420-ada/american-beer-heritage)**<br>
 
 
