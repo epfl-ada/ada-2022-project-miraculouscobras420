@@ -92,9 +92,9 @@ To study the effect of the users location relative to the brewery location, we c
 * Week 14: Wrapping up for final submission.
 
 ## Folder Structure
-**project_milestone3.ipynb**: EDA, Ale vs. Lager and Sentiment Analysis parts can be found in this document
+**project_milestone3.ipynb**: EDA, Ale vs. Lager and Sentiment Analysis parts can be found in this document <br>
 **linear_regression.ipynb**: Linear Regression results, hypothesis testing results included in the data story can be found here <br>
-**LDA_vis.ipynb**: Latent Dirichlet Allocation(LDA), lemmatization and word cloud generation codes can be found here.
+**LDA_vis.ipynb**: Latent Dirichlet Allocation(LDA), lemmatization and word cloud generation codes can be found here. <br><br>
 
 **Note**: While writing our data story, we realized that adding the visualizations regarding LDA might cause distraction for the reader to grasp the story we wanted to tell in our data story. Therefore, we decided not to include in the data story but to share the codes with you in which wordcloud generation functions are also included
 
