@@ -27,6 +27,10 @@ Dataset containing craft breweries per capita data in the UD in year 2021, could
 * **[ Major beer vendor market share in the United States from 2014 to 2021](https://datasetsearch.research.google.com/search?src=2&query=Major%20beer%20vendor%20market%20share%20in%20the%20United%20States%20from%202014%20to%202021&docid=L2cvMTFyOW1iYm5jdw%3D%3D)** <br>
 Dataset containing local US beer vendor market shares from 2014 to 2021, could show correlation between local and nation-wide brewery success.
 
+* **[State Population estimates in the US](https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html)** <br>
+Annual estimates of the Resident population for the Unites States regions. Stats displayed in columns and rows.
+
+
 
 
 
