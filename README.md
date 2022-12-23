@@ -77,4 +77,5 @@ To study the effect of the users location relative to the brewery location, we c
 * Ilker: Sentiment analysis, data story
 * Mark: Hypothesis testing, data story
 
-![logo](https://user-images.githubusercontent.com/62402657/202795763-95431dd6-fc03-437c-bd44-f4c11cdb8bd1.jpg)
+<img width="397" alt="logo" src="https://user-images.githubusercontent.com/62402657/209407022-4545a95a-57d4-415a-82cd-913f901f1f26.png">
+
