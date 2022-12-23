@@ -74,6 +74,12 @@ People's prior beer experiences have been tremendously facilitated by technologi
 People's prior beer experiences have been tremendously facilitated by technological improvements and the frequent usage of websites like Beer Advocate and Rate Beer. Therefore, when examining the positive or negative feelings of people's remarks regarding any beer, can we observe how negative the review content is if a beer has a low rating or how positive the review content is if a beer has a high rating? 
 The twitter-XLM-roBERTa-base for Sentiment Analysis model created by Cardiff NLP was used in the sentiment analysis that followed. Using training data from 198M tweets, this multilingual NLP model has been optimized for sentiment analysis.
 
+![sentiment_analysis_graph](https://user-images.githubusercontent.com/62402657/209407679-e201194f-ccad-4c7b-bdd3-56bdb1a0c33e.png)
+
+According to the aforementioned statistics, evaluations with ratings of less than 2 have an average negative sentiment score of 0.6, which is three times higher than neutral or positive scores. 
+
+The average positive and negative sentiments are both 0.4 for ratings more than 4.5, in contrast. This would imply that evaluations with higher scores have more negative than positive emotion.
+
 
 
 ### Hypothesis testing:
